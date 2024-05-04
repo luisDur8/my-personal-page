@@ -1,7 +1,6 @@
 ![Portada del README](_astrosphere.jpg)
 
-Este repositorio es de mi página web personal.
-Ha sido creada con una plantilla de Astro. Si bien orignalmente es estática, la hiré convirtiendo en híbrida; también es algo minimalista, liviana y ultrarrápida.
+Este repositorio es de mi web personal, construida con una plantilla de Astro. Empezó siendo estática, pero le estoy dando un toque híbrido. Es minimalista, liviana y vuela en velocidad.
 
 Las técnologías usadas principalmente son: 
 - Astro
@@ -10,15 +9,15 @@ Las técnologías usadas principalmente son:
 - SolidJS (un poco)
 
 ## 🚀 Despliegue
-// En proceso
+[Netlify](https://luisloher.netlify.app)
 
 
 
 ## 🗺️ Roadmap
 
-Fin fechas específicas
+Sin Fechas Específicas
 
-- ⬜ Publicación General de la Página Web
+- ✔️ Publicación General de la Página Web
 - ⬜ Pestaña de Portafolio
 - ⬜ Pestaña de Cursos (Gratuitos)
 - ⬜ Pestaña de Divulgación Científica
